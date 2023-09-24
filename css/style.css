@@ -1,0 +1,6 @@
+.jumbotron{
+    padding: 0px 6px;
+    background-color: rgba(125, 170, 238, 0.281);
+    border: 1px solid rgba(17, 5, 184, 0.267);
+    /* border-radius: 20px; */
+}
